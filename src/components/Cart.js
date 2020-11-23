@@ -45,13 +45,13 @@ function Cart(){
 
 
 
-    const handleChange = prop => event =>{
+    //const handleChange = prop => event =>{
 
-        setProduct({
-            ...product, [prop]: event.target.value
-        });
+    //    setProduct({
+    //        ...product, [prop]: event.target.value
+    //    });
 
-    };
+    //};
 
     const handleSubmit = ()=>{
 
